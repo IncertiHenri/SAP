@@ -10,40 +10,6 @@ body{
     height: 50px;
 }
 
-.toolbar {
-    background-color: #f0f0f0;
-    padding: 6px 10px;
-    border-bottom: 1px solid #c5c5c5;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.btn {
-    background: linear-gradient(#ffffff, #e6e6e6);
-    border: 1px solid #b5b5b5;
-    padding: 4px 12px;
-    font-size: 13px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-    border-radius: 3px;
-}
-
-.btn:hover {
-    background: linear-gradient(#e6f2ff, #cce6ff);
-    border-color: #3399ff;
-}
-
-.btn:active {
-    background: #d0e7ff;
-}
-
-.icon {
-    font-size: 14px;
-}
-
 #retangulo {
   display: flex;
   gap: 10px;
