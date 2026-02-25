@@ -161,7 +161,7 @@ body{
 #retangulo {
     display: flex;
     flex-wrap: wrap;
-    width: 1850px;
+    width: 2000px;
     gap: 20px;
 }
 
