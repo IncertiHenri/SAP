@@ -10,9 +10,159 @@ body{
     height: 50px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.body2 {
+    background-color: white;
+}
+
 #retangulo {
-  display: flex;
-  gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1850px;
+    gap: 20px;
 }
 
 .retangulo_maior {
@@ -21,12 +171,6 @@ body{
   background-color: rgb(214, 232, 255);
   border-radius: 15px;
 }
-
-#retangulo2 {
-  display:grid;
-  gap: 20px;
-} 
-
 .retangulo_menor {
   width: 600px;
   height: 300px;
