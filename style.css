@@ -10,6 +10,26 @@ body{
     height: 50px;
 }
 
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px;
+    height: 100vh;
+    background-color: #f4f4f4;
+    border-right: 1px solid #aaa;
+    padding: 15px;
+}
+
+.conteudo{
+    margin-left: 240px;
+    padding: 20px;
+}
+
+#botoes button{
+    margin: 5px;
+}
+
 
 
 
